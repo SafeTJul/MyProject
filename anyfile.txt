@@ -1,4 +1,6 @@
 This is my file
 This is another line
 
-Just modified this line on local only
+
+Just modified this line on local only and remote now
+
