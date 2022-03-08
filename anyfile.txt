@@ -2,6 +2,3 @@ This is my file
 This is another line
 
 Just added this line
-
-
-Just added another line
